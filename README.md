@@ -7,7 +7,7 @@ Text and Image Indexing
 
 2. Image-Indexing :
 
-- cd ./image
+- cd ./image-indexing
 - pip install -r requirements.txt
 - cd ./app
 - python index.py --dataset static/images --index index.csv
