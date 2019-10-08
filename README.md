@@ -8,8 +8,8 @@ Run Program :
 - see output on ./output
 
 Requirement :
-- swish-e :
-  Run on your linux terminal : sudo apt-get install swish-e
+- SWISH-E :
+  run on your linux terminal -> sudo apt-get install swish-e
 
 Optional :
   You can change as you like to get the desired results on index.conf. for more detail check https://www.esa.org/tiee/search/html/swish-config.html
@@ -27,8 +27,8 @@ Optional :
   You can set all image you want to index on ./static/images if you want to change image
 
 requirement :
-- pip :
-  Run on your linux terminal : sudo apt install python3-pip
+- PIP :
+  run on your linux terminal -> sudo apt install python3-pip
   
 Sources :
 
